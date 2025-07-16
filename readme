@@ -1,7 +1,0 @@
-Fine tune the model on dataset 2k, which contains 1657 cases.
-
-Modification:
-
-| file name               |     current                                      |     before                              |
-| hdf5_generator.py       | Image with original size is serialized           | Cutted image is serialized              |
-
