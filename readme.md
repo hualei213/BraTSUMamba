@@ -11,8 +11,9 @@ This is the official PyTorch implementatin of our project, BraTS-UMamba, which w
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/298dc9b986454c26b359ede72dddd54e.png#pic_center)
 
 # Experimental results
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/51d33d00a482434d9fc1f41debccd1a4.png#pic_center)
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/af55ddf1d8984a9d85ce80c92c4f461b.png#pic_center)
+
+# If you are inspired by our work, please cite it as:
 Paper
 -------
 	@article{yao2025brats,
