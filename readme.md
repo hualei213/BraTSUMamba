@@ -1,7 +1,9 @@
 ﻿**BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation**
 ==============================
-We have now open-sourced the code for data preprocessing, model training, inference, and evaluation metric computation.
-The link to our paper:
+This is the official PyTorch implementatin of our project, BraTS-UMamba, which was early accepted by MICCAI 2025.
+
+**Project description**
+
 
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/298dc9b986454c26b359ede72dddd54e.png#pic_center)
