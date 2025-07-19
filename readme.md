@@ -3,11 +3,11 @@
 This is the official PyTorch implementatin of our project, BraTS-UMamba, which was early accepted by MICCAI 2025.
 
 **Project description**
---we propose BraTS-UMamba, a novel Mamba-based U-Net designed to enhance brain tumor segmentation by capturing and adaptively fusing bi-granularity based long-range dependencies in the spatial domain while integrating both low- and high-band spectrum clues from the frequency domain to refine spatial feature representation.
+- we propose BraTS-UMamba, a novel Mamba-based U-Net designed to enhance brain tumor segmentation by capturing and adaptively fusing bi-granularity based long-range dependencies in the spatial domain while integrating both low- and high-band spectrum clues from the frequency domain to refine spatial feature representation.
 
---We further enhance segmentation through an auxiliary brain tumor classification loss.
+- We further enhance segmentation through an auxiliary brain tumor classification loss.
 
---Extensive experiments on two public benchmark datasets demonstrate the superiority of our BraTS-UMamba over state-of-the-art methods.
+- Extensive experiments on two public benchmark datasets demonstrate the superiority of our BraTS-UMamba over state-of-the-art methods.
 
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/298dc9b986454c26b359ede72dddd54e.png#pic_center)
