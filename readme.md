@@ -14,6 +14,7 @@ This is the official PyTorch implementatin of our project, BraTS-UMamba, which w
 ## Experimental results
 ### Comparative results on MSD BTS
 <img width="2078" height="708" alt="image" src="https://github.com/user-attachments/assets/837c2a55-4b62-482e-a57c-649b75f78b7c" />
+
 ### Comparative results on BraTS2023-GLI
 <img width="2088" height="700" alt="image" src="https://github.com/user-attachments/assets/8f09006b-7f55-4d03-a1bf-c5f5e82c4c4d" />
 
@@ -25,6 +26,7 @@ This is the official PyTorch implementatin of our project, BraTS-UMamba, which w
     author={Haoran Yao and Hao Xiong and Dong Liu and Hualei Shen and Shlomo Berkovsky},
     journal={MICCAI 2025},
     year={2025}
+    
 ## Environment configuration
 ------
 	# CUDA 11.8
