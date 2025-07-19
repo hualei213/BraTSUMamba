@@ -25,7 +25,7 @@ This is the official PyTorch implementatin of our project, BraTS-UMamba, which w
     author={Haoran Yao and Hao Xiong and Dong Liu and Hualei Shen and Shlomo Berkovsky},
     journal={MICCAI 2025},
     year={2025}
-Environment Configuration
+## Environment configuration
 ------
 	# CUDA 11.8
 	pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu118
@@ -33,16 +33,16 @@ Environment Configuration
 	#Install Mamba
 	causal-conv1d==1.0.0
 	mamba-ssm==1.0.1
-Data Preprocessing
+## Data preprocessing
 ---
 	bash generate_hdf5_record_from_directory_MSD.bash
-Training
+## Model training
 ---
 	bash run.bash
-Trained model weights
+## The trained weights
 ------
-&emsp;Click the link to download:[Trained model](https://pan.baidu.com/s/1Uj8qfArXeBbKsogRDyvkuA?pwd=6666)
+Please click the link to download: [Trained model](https://pan.baidu.com/s/1Uj8qfArXeBbKsogRDyvkuA?pwd=6666)
 
-Inference
+## Inference
 ---
 	bash test_eval.bash
