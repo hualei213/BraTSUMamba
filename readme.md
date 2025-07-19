@@ -43,7 +43,7 @@ This is the official PyTorch implementatin of our project, BraTS-UMamba, which w
 	bash run.bash
 ## The trained weights
 ------
-Please click the link to download: [Trained model](https://pan.baidu.com/s/1Uj8qfArXeBbKsogRDyvkuA?pwd=6666)
+Please click [here](https://pan.baidu.com/s/1Uj8qfArXeBbKsogRDyvkuA?pwd=6666) to download
 
 ## Inference
 ---
