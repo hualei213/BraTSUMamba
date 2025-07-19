@@ -8,10 +8,15 @@ This is the official PyTorch implementatin of our project, BraTS-UMamba, which w
 - Extensive experiments on two public benchmark datasets demonstrate the superiority of our BraTS-UMamba over state-of-the-art methods.
 
 ## Network architecture
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/298dc9b986454c26b359ede72dddd54e.png#pic_center)
+<img width="2087" height="1247" alt="image" src="https://github.com/user-attachments/assets/afe0b265-9892-4d7a-9cf4-94784089e7c3" />
+
 
 ## Experimental results
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/af55ddf1d8984a9d85ce80c92c4f461b.png#pic_center)
+### Comparative results on MSD BTS
+<img width="2078" height="708" alt="image" src="https://github.com/user-attachments/assets/837c2a55-4b62-482e-a57c-649b75f78b7c" />
+### Comparative results on BraTS2023-GLI
+<img width="2088" height="700" alt="image" src="https://github.com/user-attachments/assets/8f09006b-7f55-4d03-a1bf-c5f5e82c4c4d" />
+
 
 ## Bibtex entry to our paper
 -------
