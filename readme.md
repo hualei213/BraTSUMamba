@@ -3,9 +3,10 @@
 This is the official PyTorch implementatin of our project, BraTS-UMamba, which was early accepted by MICCAI 2025.
 
 ## Project description
-- we propose BraTS-UMamba, a novel Mamba-based U-Net designed to enhance brain tumor segmentation by capturing and adaptively fusing bi-granularity based long-range dependencies in the spatial domain while integrating both low- and high-band spectrum clues from the frequency domain to refine spatial feature representation.
-- We further enhance segmentation through an auxiliary brain tumor classification loss.
-- Extensive experiments on two public benchmark datasets demonstrate the superiority of our BraTS-UMamba over state-of-the-art methods.
+- we propose **BraTS-UMamba** to enhance brain tumor segmentation
+- **BraTS-UMamba** is designed to capture and adaptively fuse bi-granularity based long-range dependencies in the spatial domain, and integrate both low- and high-band spectrum clues from the frequency domain to refine spatial feature representation
+- We further enhance segmentation through an auxiliary brain tumor classification loss
+- Extensive experiments on two public benchmark datasets demonstrate the superiority of our BraTS-UMamba over state-of-the-art methods
 
 ## Network architecture
 <img width="2087" height="1247" alt="image" src="https://github.com/user-attachments/assets/afe0b265-9892-4d7a-9cf4-94784089e7c3" />
@@ -21,7 +22,7 @@ This is the official PyTorch implementatin of our project, BraTS-UMamba, which w
 
 ## Bibtex entry to our paper
 -------
-	@article{yao2025brats,
+@article{yao2025brats,
     title={BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency Based Feature Enhancement for Brain Tumor Segmentation},
     author={Haoran Yao and Hao Xiong and Dong Liu and Hualei Shen and Shlomo Berkovsky},
     journal={MICCAI 2025},
@@ -50,4 +51,4 @@ Please click [here](https://pan.baidu.com/s/1Uj8qfArXeBbKsogRDyvkuA?pwd=6666) to
 	bash test_eval.bash
 
 ## Contact
-Hualei Shen[here](https://www.htu.edu.cn/cs/2023/1226/c10537a295158/page.htm) (shenhualei@htu.edu.cn) 
+[Hualei Shen](https://www.htu.edu.cn/cs/2023/1226/c10537a295158/page.htm) (shenhualei@htu.edu.cn) 
