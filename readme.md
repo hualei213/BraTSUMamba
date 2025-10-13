@@ -18,7 +18,7 @@ Paper
         volume = {LNCS 15975},
         month = {September},
         page = {98 -- 107}
-}
+		
 Environment Configuration
 ------
 	# CUDA 11.8
