@@ -9,11 +9,15 @@ The link to our paper:
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/af55ddf1d8984a9d85ce80c92c4f461b.png#pic_center)
 Paper
 -------
-	@article{yao2025brats,
-    title={BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency Based Feature Enhancement for Brain Tumor Segmentation},
-    author={Haoran Yao and Hao Xiong and Dong Liu and Hualei Shen and Shlomo Berkovsky},
-    journal={},
-    year={2025}
+	@InProceedings{YaoHao_BraTSUMamba_MICCAI2025,
+        author = { Yao, Haoran AND Xiong, Hao AND Liu, Dong AND Shen, Hualei AND Berkovsky, Shlomo},
+        title = { { BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15975},
+        month = {September},
+        page = {98 -- 107}
 }
 Environment Configuration
 ------
