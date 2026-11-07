@@ -28,6 +28,8 @@ Inference
 	
 Paper Citation
 -------
+If you find this code useful in your research, please consider citing our paper.
+```
 	@InProceedings{YaoHao_BraTSUMamba_MICCAI2025,
         author = { Yao, Haoran AND Xiong, Hao AND Liu, Dong AND Shen, Hualei AND Berkovsky, Shlomo},
         title = { { BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation } },
@@ -37,3 +39,4 @@ Paper Citation
         volume = {LNCS 15975},
         month = {September},
         page = {98 -- 107}
+```
