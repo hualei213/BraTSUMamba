@@ -7,17 +7,6 @@ The link to our paper:
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/298dc9b986454c26b359ede72dddd54e.png#pic_center)
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/51d33d00a482434d9fc1f41debccd1a4.png#pic_center)
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/af55ddf1d8984a9d85ce80c92c4f461b.png#pic_center)
-Paper
--------
-	@InProceedings{YaoHao_BraTSUMamba_MICCAI2025,
-        author = { Yao, Haoran AND Xiong, Hao AND Liu, Dong AND Shen, Hualei AND Berkovsky, Shlomo},
-        title = { { BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation } },
-        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
-        year = {2025},
-        publisher = {Springer Nature Switzerland},
-        volume = {LNCS 15975},
-        month = {September},
-        page = {98 -- 107}
 		
 Environment Configuration
 ------
@@ -37,5 +26,14 @@ Inference
 ---
 	bash test_eval.bash
 	
-
-
+Paper Citation
+-------
+	@InProceedings{YaoHao_BraTSUMamba_MICCAI2025,
+        author = { Yao, Haoran AND Xiong, Hao AND Liu, Dong AND Shen, Hualei AND Berkovsky, Shlomo},
+        title = { { BraTS-UMamba: Adaptive Mamba UNet with Dual-Band Frequency based Feature Enhancement for Brain Tumor Segmentation } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15975},
+        month = {September},
+        page = {98 -- 107}
